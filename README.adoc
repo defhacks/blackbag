@@ -1,0 +1,3 @@
+= Blackbag
+
+Blackbag is meant to be a home for tooling geared towards CTF/RE and other bit-wrangling shenanigans.
